@@ -130,12 +130,12 @@ hr
 }
 
 .btn {
-  background: #3EDBF0;
-  background-image: -webkit-linear-gradient(top, #3EDBF0, #3EDBF0);
-  background-image: -moz-linear-gradient(top, #3EDBF0, #3EDBF0);
-  background-image: -ms-linear-gradient(top, #3EDBF0, #3EDBF0);
-  background-image: -o-linear-gradient(top, #3EDBF0, #3EDBF0);
-  background-image: linear-gradient(to bottom, #3EDBF0, #3EDBF0);
+  background: #3DA4AB;
+  background-image: -webkit-linear-gradient(top, #3DA4AB, #3DA4AB);
+  background-image: -moz-linear-gradient(top, #3DA4AB, #3DA4AB);
+  background-image: -ms-linear-gradient(top, #3DA4AB, #3DA4AB);
+  background-image: -o-linear-gradient(top, #3DA4AB, #3DA4AB);
+  background-image: linear-gradient(to bottom, #3DA4AB, #3DA4AB);
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 28px;
@@ -155,5 +155,4 @@ hr
 {
   color: #FFFFFF;
   margin-bottom: 0;
-  font-size: 0.75rem;
 }
